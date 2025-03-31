@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Libwebp.Net" Version="0.9.1" />
+  </ItemGroup>
+
 </Project>
