@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Libwebp.Net" Version="0.9.1" />
+    <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="14.5.0" />
   </ItemGroup>
 
 </Project>
