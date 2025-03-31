@@ -33,6 +33,7 @@ public static class FolderHandler
             string outputFile = Path.Combine(outputFolderPath, $"{fileName}.webp");
 
             ConvertToWebp(inputFile, outputFile, quality);
+            Console.WriteLine($"Converted {inputFile} to {outputFile}");
         }
     }
 }

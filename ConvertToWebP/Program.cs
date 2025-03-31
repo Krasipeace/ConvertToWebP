@@ -2,4 +2,4 @@
 
 string currentDirectory = Directory.GetCurrentDirectory();
 
-ConvertFolderImagesToWebp(currentDirectory, currentDirectory);
+ConvertFolderImagesToWebp(currentDirectory, currentDirectory + "\\Converted");
