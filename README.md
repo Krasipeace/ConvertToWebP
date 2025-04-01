@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/krasipeace/converttowebp/badge)](https://www.codefactor.io/repository/github/krasipeace/converttowebp)
+
 # ConvertToWebP
  Converts non-webp to webp images
 
